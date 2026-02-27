@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Git\RP\flutter-pdfviewer\flutter_pdfviewer\syncfusion_pdfviewer_macos\example"
+export "FLUTTER_ROOT=D:\softs\flutter\flutter"
+export "FLUTTER_APPLICATION_PATH=D:\githubs\xiaozz\client\flutter-widgets\packages\syncfusion_pdfviewer_macos\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"

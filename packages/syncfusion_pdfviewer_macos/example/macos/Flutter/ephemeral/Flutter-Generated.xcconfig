@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\flutter
-FLUTTER_APPLICATION_PATH=C:\Git\RP\flutter-pdfviewer\flutter_pdfviewer\syncfusion_pdfviewer_macos\example
+FLUTTER_ROOT=D:\softs\flutter\flutter
+FLUTTER_APPLICATION_PATH=D:\githubs\xiaozz\client\flutter-widgets\packages\syncfusion_pdfviewer_macos\example
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
